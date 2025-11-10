@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6ff7d3d-b973-4b36-a5bc-cc929d5fc0db" name="Changes" comment="init video">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/10.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/11.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/12.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/13.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/3.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/4.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/5.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/6.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/7.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/8.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/9.mp4" beforeDir="false" />
-    </list>
+    <list default="true" id="a6ff7d3d-b973-4b36-a5bc-cc929d5fc0db" name="Changes" comment="update noel" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,11 +73,28 @@
       <option name="project" value="LOCAL" />
       <updated>1762746959687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update noel">
+      <option name="closed" value="true" />
+      <created>1762762191761</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762762191761</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update noel">
+      <option name="closed" value="true" />
+      <created>1762762200902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762762200902</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init video" />
-    <option name="LAST_COMMIT_MESSAGE" value="init video" />
+    <MESSAGE value="update noel" />
+    <option name="LAST_COMMIT_MESSAGE" value="update noel" />
   </component>
 </project>
