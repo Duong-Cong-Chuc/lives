@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6ff7d3d-b973-4b36-a5bc-cc929d5fc0db" name="Changes" comment="update noel">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/reign1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/reign2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/reign3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/reign4.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/reign5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/reign6.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/reign7.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/1.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/1.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/10.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/10.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/11.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/11.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/12.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/12.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/13.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/13.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/2.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/2.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/3.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/3.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/4.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/4.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/5.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/5.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/6.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/6.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/7.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/7.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/8.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/8.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/video/9.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/noel/video/9.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762762529431</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update noel">
+      <option name="closed" value="true" />
+      <created>1763193272101</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763193272101</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
