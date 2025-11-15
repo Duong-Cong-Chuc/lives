@@ -6,68 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a6ff7d3d-b973-4b36-a5bc-cc929d5fc0db" name="Changes" comment="update noel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (1).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (11).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (12).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (13).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (14).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (15).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (16).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (17).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (18).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (19).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (2).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (20).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (21).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (22).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (3).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (4).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (5).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (6).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (8).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Candy/Candy (9).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (1).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (10).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (11).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (12).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (13).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (14).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (15).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (16).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (17).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (18).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (19).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (2).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (3).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (4).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (5).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (6).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (7).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (8).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Reindeer/Reindeer (9).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (10).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (11).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (12).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (13).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (14).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (15).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (16).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (17).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (18).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (19).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (20).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (21).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (22).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (23).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (3).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (4).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (5).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (6).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (7).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (8).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noel/photos/Trending/x (9).webp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763194060680</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update noel">
+      <option name="closed" value="true" />
+      <created>1763195595520</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763195595520</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
